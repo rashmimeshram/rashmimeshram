@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 A passionate Data Engineer<br>Actively seeking for an  opportunity<br>Interested in Big Data Technologies and Machine Learning.
 
 
